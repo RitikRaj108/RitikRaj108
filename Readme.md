@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">Software Engineer and Web Developer specializing in AI/ML, with a proven ability to design, develop, and deploy high-performance applications.</h3>
+<h3 align="center">Software Engineer and Web Developer specializing in AI/ML, with a proven ability to design, develop, and deploy the applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikraj108&label=Profile%20views&color=0e75b6&style=flat" alt="ritikraj108" /> </p>
 
